@@ -1,4 +1,4 @@
-package homeWork1;
+package javaReactDay2Hw;
 
 public class Main {
 
